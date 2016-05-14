@@ -1,4 +1,4 @@
-package com.example.android.fragmentanim;
+package com.example.android.fragmentanimF;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridLayout;
 import android.widget.ImageView;
-import com.example.android.activityanim.R;
+import com.example.android.activityanimf.R;
 import java.util.ArrayList;
 import java.util.HashMap;
 

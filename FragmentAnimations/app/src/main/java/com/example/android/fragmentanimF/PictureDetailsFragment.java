@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.example.android.fragmentanim;
+package com.example.android.fragmentanimF;
 
-import com.example.android.activityanim.R;
+import com.example.android.activityanimf.R;
 
 import android.animation.ObjectAnimator;
 import android.animation.TimeInterpolator;
@@ -25,7 +25,6 @@ import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.graphics.ColorMatrix;
 import android.graphics.ColorMatrixColorFilter;
-import android.graphics.Picture;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;

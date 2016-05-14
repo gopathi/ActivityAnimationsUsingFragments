@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.example.android.fragmentanim;
+package com.example.android.fragmentanimF;
 
 import java.util.ArrayList;
 
-import com.example.android.activityanim.R;
+import com.example.android.activityanimf.R;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -57,7 +57,7 @@ class BitmapUtils {
      */
     public static ArrayList<PictureData> loadPhotos(Resources resources) {
         ArrayList<PictureData> pictures = new ArrayList<>();
-        for (int i = 0; i < 30; ++i) {
+        for (int i = 0; i < 800; ++i) {
             int resourceId = mPhotos[(int) (Math.random() * mPhotos.length)];
             Bitmap bitmap = getBitmap(resources, resourceId);
             Bitmap thumbnail = getThumbnail(bitmap, 200);

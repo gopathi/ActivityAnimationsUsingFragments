@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.example.android.fragmentanim;
+package com.example.android.fragmentanimF;
 
-import com.example.android.activityanim.R;
+import com.example.android.activityanimf.R;
 
 import android.app.Activity;
 import android.os.Bundle;

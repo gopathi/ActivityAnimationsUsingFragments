@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.fragmentanim;
+package com.example.android.fragmentanimF;
 
 import android.graphics.Bitmap;
 
